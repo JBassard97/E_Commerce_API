@@ -52,7 +52,7 @@ router.post("/", async (req, res) => {
 
     /* req.body should look like this...
     {
-      category_name: "New Category",
+      "category_name": "New Category",
     }
   */
 
@@ -70,7 +70,7 @@ router.put("/:id", async (req, res) => {
 
   /* req.body should look like this...
     {
-      category_name: "Updated Category Name",
+      "category_name": "Updated Category Name",
     }
   */
 

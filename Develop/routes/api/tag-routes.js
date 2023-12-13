@@ -51,7 +51,7 @@ router.post("/", async (req, res) => {
 
     /* req.body should look like this...
       {
-        tag_name: "New Tag Name"
+        "tag_name": "New Tag Name"
       }
      */
 
@@ -74,7 +74,7 @@ router.put("/:id", async (req, res) => {
 
     /* req.body should look like this...
       {
-        tag_name: "Updated Tag Name"
+        "tag_name": "Updated Tag Name"
       }
     */
 
