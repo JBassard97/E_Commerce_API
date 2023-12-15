@@ -24,7 +24,8 @@ You will need to have mySQL downloaded to create the database, and Node.js for t
     5. Enter 'SOURCE schema.sql;' Then enter 'quit' to exit
     6. Enter 'cd ..' in the terminal to return to the root directory of the application
     7. Download the project's dependencies by entering 'npm i'
-    8. We'll need to seed the databases tables with initial data, so run the script to do so by entering 'npm run seed' 9. Finally we are ready to begin, so enter 'npm run start'
+    8. We'll need to seed the databases tables with initial data, so run the script to do so by entering 'npm run seed' 
+    9. Finally we are ready to begin, so enter 'npm run start'
 
 ## Usage
 
