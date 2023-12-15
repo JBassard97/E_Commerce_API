@@ -18,7 +18,8 @@ This repository contains the source code for an e-commerce api. This has dedicat
 You will need to have mySQL downloaded to create the database, and Node.js for the runtime environment. VS Code's integrated terminal works as a good CLI to start and perform the following steps:
 
     1. Clone the project
-    2. You need rename the file '.env.EXAMPLE' to simply '.env'. Open it and ensure that your mySQL password is filled in with your own (if you've setup your mySQL to not have one, just leave it blank). The 'DB_USER' can remain 'root' 3. Right-click the folder titled 'db' and select 'Open in Integrated Terminal'
+    2. You need rename the file '.env.EXAMPLE' to simply '.env'. Open it and ensure that your mySQL password is filled in with your own (if you've setup your mySQL to not have one, just leave it blank). The 'DB_USER' can remain 'root' 
+    3. Right-click the folder titled 'db' and select 'Open in Integrated Terminal'
     4. You'll need to create the database initially, so start the mySQL shell by entering 'mysql -u root -p' If you're not worried about a password because you didn't make one, 'mysql -u root' will work too.
     5. Enter 'SOURCE schema.sql;' Then enter 'quit' to exit
     6. Enter 'cd ..' in the terminal to return to the root directory of the application
