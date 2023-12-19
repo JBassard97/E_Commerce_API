@@ -111,3 +111,7 @@ DELETE request will delete a category with that id
 MIT
 
 ## Screenshots
+
+[E_Commerce API Setup Demonstration.webm](https://github.com/JBassard97/E_Commerce_API/assets/142551579/6f7599dd-d54b-449d-8697-cf7e01cfc862)
+
+[E_Commerce API Insomnia Demonstration.webm](https://github.com/JBassard97/E_Commerce_API/assets/142551579/bda96865-2a01-43af-98bb-d18ddc3e145e)
